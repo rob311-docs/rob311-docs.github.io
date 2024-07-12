@@ -1,8 +1,31 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: ROB 311
+description: How to Build Robots and Make Them Move
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://rob311-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Course Github: https://github.com/michiganrobotics/rob311
+
+math: katex
+
+logo: "/assets/images/robotics-logo.svg"
+favicon_ico: "/assets/images/ROB 311-bot-on-ball.jpg"
+
+callouts_level: quiet # or loud 
+callouts:
+  highlight:
+    title: Highlight
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
