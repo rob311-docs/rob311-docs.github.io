@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://rob311-docs.github.io
 
 aux_links:
-  Course Github: https://github.com/michiganrobotics/rob311
+  Course Github: https://github.com/neurobionics/rob311
 
 math: katex
 
